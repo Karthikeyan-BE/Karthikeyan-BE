@@ -6,7 +6,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Karthikeyan-BE&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/Karthikeyan-BE)
 [![GitHub followers](https://img.shields.io/github/followers/Karthikeyan-BE?label=Followers&style=for-the-badge&color=blue)](https://github.com/Karthikeyan-BE)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/karthikeyan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/karthikeyan-t-82b2992a7)
 
 ---
 
